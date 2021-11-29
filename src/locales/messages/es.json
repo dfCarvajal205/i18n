@@ -1,0 +1,16 @@
+{
+	"Position": "Nombre del cargo",
+	"Company": "Empresa",
+	"Salary": "Salario",
+	"City": "Ciudad",
+	"PublicationDate": "Fecha de publicación",
+	"Views": "No. de visitas",
+	"salario": "{salary, plural, one {# millión} other{# millones}}",
+	"id": "#",
+	"nombre": "{elNombre}",
+	"empresa": "{laEmpresa}",
+	"ciudad": "{laCiudad}",
+	"idInt": "{elId}",
+	"tipoTabla": "table table-light",
+	"encabezado": "table-light"
+}
